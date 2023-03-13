@@ -1,0 +1,10 @@
+Todo
+- Make the linkedIn auth, send request working
+- Make the email automation sequation working
+- Implement the frontend
+
+MVP Features:
+LinkedIn and email cloud automation
+Manual Tasks for Call, Message or something else
+Create sequences
+
